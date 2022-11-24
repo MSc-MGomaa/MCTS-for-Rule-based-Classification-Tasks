@@ -57,6 +57,6 @@ The classifier is read as follow, if the example is not covered by Iris-virginic
 
 The following configurations were used: dataset = 'Iris.csv', kFold = 10, mValues = [0.1, 0.5, 1, 5, 10, 20], jaccardValues = [0.2, 0.5, 0.8], iterationsNumber = 20, minimumSupport = 10.
 
-
+4
 
 
